@@ -1,3 +1,3 @@
 ### Introduction
 
-## cacheSolve created by Himanshu Sahasarbudhe
+## Code for caching the inverse of a matrix
